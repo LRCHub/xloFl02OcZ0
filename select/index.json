@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "base_track": "Waiting For Love",
+  "base_artist": "Avicii",
+  "createdAt": "2025-12-13T03:48:30.740247Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Waiting for Love",
+      "artist": "Great White",
+      "has_synced": true,
+      "path": "select/01_Waiting_for_Love_Great_White.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Waiting For Love",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/02_Waiting_For_Love_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Waiting for Love",
+      "artist": "P!nk",
+      "has_synced": false,
+      "path": "select/03_Waiting_for_Love_P!nk.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Waiting For Love",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/04_Waiting_For_Love_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Waiting For Love",
+      "artist": "ARMNHMR feat. neverwaves",
+      "has_synced": true,
+      "path": "select/05_Waiting_For_Love_ARMNHMR_feat._neverwaves.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Waiting For Love",
+      "artist": "Avicii (ft. Simon Aldred)",
+      "has_synced": true,
+      "path": "select/06_Waiting_For_Love_Avicii_(ft._Simon_Aldred).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Waiting For Love",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/07_Waiting_For_Love_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Waiting For Love (Addal Remix)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/08_Waiting_For_Love_(Addal_Remix)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Waiting For Love (Astma & Rocwell Remix)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/09_Waiting_For_Love_(Astma_&_Rocwell_Remix)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Waiting For Love - Carnage & Headhunterz Remix",
+      "artist": "Avicii",
+      "has_synced": false,
+      "path": "select/10_Waiting_For_Love_-_Carnage_&_Headhunterz_Remix_Avicii.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Waiting For Love (Fabich Remix)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/11_Waiting_For_Love_(Fabich_Remix)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Waiting for Love (Marshmello Remix) [Mixed]",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/12_Waiting_for_Love_(Marshmello_Remix)_[Mixed]_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Waiting For Love (Marshmello Remix)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/13_Waiting_For_Love_(Marshmello_Remix)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Waiting For Love (Sam Feldt Remix)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/14_Waiting_For_Love_(Sam_Feldt_Remix)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Waiting for Love",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/15_Waiting_for_Love_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Waiting for Love (Marshmello Remix) [Mixed]",
+      "artist": "Marshmello",
+      "has_synced": true,
+      "path": "select/16_Waiting_for_Love_(Marshmello_Remix)_[Mixed]_Marshmello.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Waiting For Love",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/17_Waiting_For_Love_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Waiting For Love",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/18_Waiting_For_Love_Avicii.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Waiting for Love",
+      "artist": "アヴィーチー",
+      "has_synced": false,
+      "path": "select/pl_01_Waiting_for_Love_アヴィーチー.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Waiting for Love",
+      "artist": "アヴィーチー",
+      "has_synced": false,
+      "path": "select/pl_02_Waiting_for_Love_アヴィーチー.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Waiting for Love",
+      "artist": "アヴィーチー",
+      "has_synced": false,
+      "path": "select/pl_03_Waiting_for_Love_アヴィーチー.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Waiting For Love",
+      "artist": "アヴィーチー",
+      "has_synced": false,
+      "path": "select/pl_04_Waiting_For_Love_アヴィーチー.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Waiting For Love",
+      "artist": "アヴィーチー",
+      "has_synced": false,
+      "path": "select/pl_05_Waiting_For_Love_アヴィーチー.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "waiting for love",
+      "artist": "アヴィーチー",
+      "has_synced": false,
+      "path": "select/pl_06_waiting_for_love_アヴィーチー.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Waiting For Love",
+      "artist": "アヴィーチー",
+      "has_synced": false,
+      "path": "select/pl_07_Waiting_For_Love_アヴィーチー.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Waiting For Love",
+      "artist": "アヴィーチー",
+      "has_synced": false,
+      "path": "select/pl_08_Waiting_For_Love_アヴィーチー.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Waiting For Love",
+      "artist": "アヴィーチー",
+      "has_synced": false,
+      "path": "select/pl_09_Waiting_For_Love_アヴィーチー.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Waiting for Love",
+      "artist": "アヴィーチー",
+      "has_synced": false,
+      "path": "select/pl_10_Waiting_for_Love_アヴィーチー.txt"
+    }
+  ]
+}
